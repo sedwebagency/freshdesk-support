@@ -2,8 +2,8 @@
 Contributors: freshdeskintegration
 Tags: freshdesk, helpdesk, contact form, knowledge base, customer support software, freshdesk ticket
 Requires at least: 3.4
-Tested up to: 6.4.3
-Stable tag: 2.4.1
+Tested up to: 6.7.2
+Stable tag: 3.0.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 

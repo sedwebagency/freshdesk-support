@@ -5,7 +5,7 @@
   Plugin URI:
   Description: Quickly embed the Freshdesk help widget, convert WordPress comments to tickets and seamlessly log your WordPress users in to your suppport portal.
   Author: Freshworks
-  Version: 2.4.1
+  Version: 3.0.0
   Author URI: http://freshdesk.com/
  */
 
