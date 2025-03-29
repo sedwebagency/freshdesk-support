@@ -16,7 +16,7 @@
 add_filter( 'wp_privacy_personal_data_erasers', 'wo_register_wo_personal_data_eraser_request', 10 );
 function wo_register_wo_personal_data_eraser_request( $erasers ) {
 	$erasers['wo-personal-data-eraser'] = array(
-		'exporter_friendly_name' => 'WP OAuth Server Data',
+		'eraser_friendly_name'   => 'WP OAuth Server Data',
 		'callback'               => 'wo_personal_data_erase_function',
 	);
 
