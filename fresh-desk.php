@@ -16,7 +16,9 @@ if (!class_exists('Fresh_Desk_Official')) {
 	 */
 	class Fresh_Desk_Official
 	{
-
+		protected $freshdesk_options = [];
+		protected $freshdesk_feedback_options = [];
+		
 		/**
 		 * Create a new instance.
 		 *
